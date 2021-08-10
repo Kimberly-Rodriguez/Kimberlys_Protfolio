@@ -1,0 +1,146 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  display: flex;
+  padding: 20px;
+  text-align: center;
+  background-color: #31343d;
+  color: rgb(173, 216, 230);
+  position:fixed;
+  object-fit: cover;
+  background-position: inherit;
+  background-size:cover;
+  width: 100%;
+  
+}
+
+header h1 {
+  width: 150%;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 0px;
+  text-align: left;
+  background-color: rgb(42, 170, 212);
+  color: #13293d;
+  position: relative;
+  font-family: Arial, Helvetica, sans-serif;
+  opacity: 85%;
+  
+  
+}
+
+header nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-content: center;
+  width: 40%;
+  margin-left: auto;
+  /* align-self: end; */
+  color: rgb(57, 184, 219);
+  text-align: right;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header nav a {
+  color: rgb(57, 184, 219);
+  text-decoration: underline;
+}
+
+main div img {
+    float: right;
+    margin: 45px 45px 45px 45px;
+    width: 20%;
+    height: 30%;
+    padding: 25px;
+}
+
+
+
+}
+
+.benefits .subclass h3 {
+  padding: 50px;
+  width: 250px;
+  text-align: end;
+  border-style: hidden;
+  border-width: 0px;
+}
+
+.content .class p {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: space-around;
+  justify-content: flex-end;
+  padding: 50px;
+  width: 250px;
+  text-align: end;
+  justify-content: flex-end;
+  border-style: hidden;
+  border-width: 1px;
+}
+
+.flexsection {
+  display: flex;
+}
+
+.benefits {
+  margin-bottom: 32px;
+  color: darkcyan;
+  flex-flow: column;
+}
+
+.benefits article h3 {
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.personalinfo nav ul li {
+  align-self: end;
+  color: rgb(57, 184, 219);
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: underline;
+}
+
+.footer {
+  padding: 30px;
+  clear: both;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+}
+
+.footer h2 {
+  font-size: 20px;
+}
+
+
+.box-parent {
+    display: flex;
+    width: 70%;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: flex-end;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.box {
+    display: flex;
+    width: 50%;
+    position: relative;
+}
+
+#hi {
+    position: absolute;
+    bottom: 0;
+    right: 30px;
+}
