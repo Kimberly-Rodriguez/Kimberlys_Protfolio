@@ -7,11 +7,11 @@
 
 body {
   font-family: "Roboto", sans-serif;
-  background-color: ivory;
+  background-color: #eff2f2 ;
   color: #31343d;
 }
 
-/* Header Section */
+/* Header portion */
 header {
   display: flex;
   background-color: #31343d;
@@ -23,7 +23,7 @@ header .title {
   display: flex;
   flex-wrap: wrap;
   align-content: center;
-  background-color: #92cbcd;
+  background-color: #9fbbe8;
   width: 40%;
   height: 100%;
   padding-right: 1%;
@@ -44,43 +44,30 @@ header nav {
 }
 
 header nav a {
-  color: #92cbcd;
+  color: #9fbbe8;
   margin: 5px;
 }
 
-/* Hero */
+/* Subheader portion */
 figure {
-  background-image: url("./assets/images/screenshot.png");
-  background-repeat: no-repeat;
   background-size: cover;
   height: 25vh;
   position: relative;
   filter: brightness(80%);
 }
 
-figure .subtitle {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  background-color: #92cbcd;
-  width: 30%;
-  position: absolute;
-  bottom: 20px;
-  right: 40px;
-  padding: 1%;
-}
 
 figure .subtitle h1 {
   font-size: 2em;
 }
 
-/* Main Section */
+/* Main portion */
 main {
   display: flex;
   flex-direction: column;
   width: 70%;
   margin: 0 auto;
-  color: #5d6e8a;
+  color: #31343d;
 }
 
 section {
@@ -101,20 +88,20 @@ section h1 {
 
 section > div {
   padding-left: 20px;
-  border-left: 5px solid #5d6e8a;
+  border-left: 5px solid #31343d;
 }
 
-/* About Section */
+/* About portion */
 #about div img {
   float: right;
   margin-left: 5px;
   margin-bottom: 5px;
   width: 300px;
-  border: 5px solid#31343d;
+  border: 5px solid #31343d;
   
 }
 
-/* Work Section */
+/* Work portion */
 #work div {
   display: flex;
   flex-wrap: wrap;
@@ -138,7 +125,7 @@ section > div {
 }
 
 .img {
-  border: 5px solid #92cbcd;
+  border: 5px solid #9fbbe8;
   height: auto;
   width: 100%;
   filter: brightness(75%);
@@ -148,7 +135,7 @@ section > div {
   position: absolute;
   left: 0;
   bottom: 10%;
-  color: #92cbcd;
+  color: #9fbbe8;
   background-color: #31343d;
   text-decoration: none;
   padding: 20px;
@@ -162,7 +149,7 @@ section > div {
   width: 100%;
 }
 
-/* Contact Section */
+/* Contact portion */
 #contact div {
   display: flex;
   flex-wrap: wrap;
@@ -172,18 +159,18 @@ section > div {
 }
 
 #contact div a {
-  color: #5d6e8a;
+  color: #31343d;
   margin: 5px;
   padding: 5px;
   font-size: 2vw;
   text-decoration: none;
-  border-bottom: 5px solid #5d6e8a;
+  border-bottom: 5px solid #31343d;
   transition: all 0.3s ease-in;
 }
 
 #contact div a:hover {
   color: #92cbcd;
-  background-color: #5d6e8a;
+  background-color: #9fbbe8;
 }
 
 @media screen and (max-width: 500px) {
