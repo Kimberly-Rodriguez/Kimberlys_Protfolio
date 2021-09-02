@@ -19,7 +19,7 @@ body {
   color: var(--darkblue);
 }
 
-/* Header portion */
+/* Header-area */
 header {
   display: flex;
   background-color: var(--blue);
@@ -57,7 +57,7 @@ header nav a {
   margin: 5px;
 }
 
-/* Subheader portion */
+/* Subheader-area */
 figure {
   background-size: cover;
   height: 25vh;
@@ -111,7 +111,7 @@ section  div {
   
 }
 
-/* work-area section */
+/* work-area  */
 #work div {
   display: flex;
   flex-wrap: wrap;
@@ -159,7 +159,7 @@ section  div {
   width: 100%;
 }
 
-/* Contact portion */
+/* Contact-area */
 #contact div {
   display: flex;
   flex-wrap: wrap;
