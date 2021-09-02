@@ -8,3 +8,8 @@ I learned to built a hierarchical/order of information from document to document
 
 ![websiteimage](assets/image/portfolioscreenshot)
 
+## Contributors
+
+## License and copyright
+
+Licensed under the [MIT License](LICENSE).
