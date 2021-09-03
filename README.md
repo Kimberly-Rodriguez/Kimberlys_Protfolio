@@ -4,7 +4,6 @@
 
 * [Description](#description)
 * [Instalation](#instalation)
-* [Usage](#usage)
 * [Tools](#tools)
 * [Contact](#contact)
 * [License](#license)
@@ -20,7 +19,7 @@ I learned to built a hierarchical/order of information from document to document
 For installation and deployment, please [click here](https://kimberly-rodriguez.github.io/Kimberlys_Protfolio/). The GitHub link is [here](https://github.com/Kimberly-Rodriguez/Kimberlys_Protfolio).
 
 
-## Usage
+The following image shows the web application's appearance and functionality:
 
 ![websiteimage](assets/images/finalwebscreenshot.png)
 
