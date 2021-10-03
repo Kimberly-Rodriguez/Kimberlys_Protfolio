@@ -21,7 +21,7 @@ For installation and deployment, please [click here](https://kimberly-rodriguez.
 
 The following image shows the web application's appearance and functionality:
 
-![websiteimage](assets/images/finalwebscreenshot.png)
+![websiteimage](assets/images/newPorfolioShot.png)
 
 ## Tools
 
