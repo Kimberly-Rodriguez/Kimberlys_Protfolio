@@ -1,40 +1,34 @@
-# Kimberly's Porfolio Project
+# Kimberly's Portfolio Project
 
-# Table of Contents
+## Table of Contents
 
 * [Description](#description)
-* [Instalation](#instalation)
+* [Installation](#installation)
 * [Tools](#tools)
 * [Contact](#contact)
 * [License](#license)
 * [Acknowledgements](#acknowledgements)
 
-## Description 
-An apportunity to share my work in one place making it easy for any interested party to view and connect with me. I have also attached my resume, work samples, and shared my personal contact information.
+## Description  
+A centralized space to showcase my work, designed for easy viewing and connection with others. Thank you for stopping by!
 
-I learned to built a hierarchical/order of information from document to document thus making the work easy to track. While also making my final product be more in agreement with all of its complex parts.
-
-
-## Instalation:
-For installation and deployment, please [click here](https://kimberly-rodriguez.github.io/Kimberlys_Protfolio/). The GitHub link is [here](https://github.com/Kimberly-Rodriguez/Kimberlys_Protfolio).
-
+## Installation  
+To view and deploy the portfolio, visit: [Live Site](https://kimberly-rodriguez.github.io/Kimberlys_Protfolio/).  
+GitHub repository: [GitHub Link](https://github.com/Kimberly-Rodriguez/Kimberlys_Protfolio).
 
 The following image shows the web application's appearance and functionality:
 
 ![websiteimage](assets/images/newPorfolioShot.png)
 
-## Tools
+## Tools  
+This project was built using HTML and CSS principles.
 
-* This project was built using HTML and CSS principles.
+## Contact  
+For questions or collaboration, contact me at: [krodriguez.ucla@gmail.com](mailto:krodriguez.ucla@gmail.com).
 
-
-## Contact
-
-If you have any question about my work or wish to collaborate in the future please contact me at: <krodriguez.ucla@gmail.com>
-
-## License 
-
+## License  
 Licensed under the [MIT License](LICENSE).
 
-## Acknowledgements
-* [UCLA Extension Coding Bootcamp](https://bootcamp.uclaextension.edu/coding/)
+
+
+
